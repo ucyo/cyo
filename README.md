@@ -21,7 +21,7 @@ Color theme is [`Dracula Soft`](https://marketplace.visualstudio.com/items?itemN
 ![rust](assets/rust.png)
 
 ### Python
-![python](assets/rust.png)
+![python](assets/python.png)
 
 ### Javascript
 ![javascript](assets/javascript.png)
